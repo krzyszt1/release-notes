@@ -1,2 +1,2 @@
 # release-notes
-Test for Release Notes automation
+Test for Release Notes automation.
